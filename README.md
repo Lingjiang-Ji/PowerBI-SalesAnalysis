@@ -24,6 +24,13 @@
   - Page 2: Product & Country Breakdown (top prodicts, top countries, map, product profit)
   - Page 3: Profitabiliyt & Drivers (Net Margin, Running Sales, Discount analysis, etc)
 
+<img width="2416" height="1450" alt="Page1" src="https://github.com/user-attachments/assets/d9c9ae82-31fc-4204-b3d2-23ed8ed63713" />
+
+<img width="2410" height="1432" alt="Page2" src="https://github.com/user-attachments/assets/7219a523-26a0-4e24-97dc-c6b218b1dced" />
+
+<img width="2392" height="1422" alt="Page3" src="https://github.com/user-attachments/assets/3f3aef34-254e-4513-bc3d-6a0f92cc6594" />
+
+
 💡Key Insights
 - Sales peaked in late 2014, strong growth trend
 - Channel Partners & Government segments contribute most to GP%
