@@ -19,12 +19,10 @@
   - Time Intelligences: YTD, YoY, Running Total, Moving Average, etc
   - Validation measures to ensure data consistency
   
-4️⃣Visualizations
-  Page 1: Executive Overview (KPIs, 3M/6M average, YoY, etc)
-  
-  Page 2: Product & Country Breakdown (top prodicts, top countries, map, product profit)
-
-  Page 3: Profitabiliyt & Drivers (Net Margin, Running Sales, Discount analysis, etc)
+- 4️⃣Visualizations
+  - Page 1: Executive Overview (KPIs, 3M/6M average, YoY, etc)
+  - Page 2: Product & Country Breakdown (top prodicts, top countries, map, product profit)
+  - Page 3: Profitabiliyt & Drivers (Net Margin, Running Sales, Discount analysis, etc)
 
 💡Key Insights
 - Sales peaked in late 2014, strong growth trend
