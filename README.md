@@ -7,7 +7,7 @@
 ▶️Process:
 
 1️⃣Data Cleaning
--Removed currency symbols, fixed data types
+- Removed currency symbols, fixed data types
   
   Created Profit column
   
